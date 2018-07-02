@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "808211850035",
+    "firebase_url": "https://fcmnotification-6a709.firebaseio.com",
+    "project_id": "fcmnotification-6a709",
+    "storage_bucket": "fcmnotification-6a709.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:808211850035:android:2c86474f46a87e26",
+        "android_client_info": {
+          "package_name": "com.priya.fcm_notification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "808211850035-dsat625sne1s7pghain73qjc8of34imj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.priya.fcm_notification",
+            "certificate_hash": "59ef34462327c13c9d71f472dcab8abf158aab16"
+          }
+        },
+        {
+          "client_id": "808211850035-24cevbm9i1egc3uk65qdjplmcdc0olrq.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "808211850035-24cevbm9i1egc3uk65qdjplmcdc0olrq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoXrsj5Njcm4-Y-HNJn1fyAlf3vqbHOjA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "808211850035-24cevbm9i1egc3uk65qdjplmcdc0olrq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
